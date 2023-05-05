@@ -1,3 +1,4 @@
+create database hotel;
 use hotel;
 
 CREATE TABLE datos (
